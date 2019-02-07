@@ -1,0 +1,16 @@
+{
+  "name": "kybertx",
+  "version": "1.0.0",
+  "description": "Get transaction data for Kyber trade",
+  "main": "getTransactionData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pmp/mybit",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^8.0.2",
+    "truffle-hdwallet-provider": "^1.0.3",
+    "web3": "^1.0.0-beta.34"
+  }
+}
